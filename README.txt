@@ -60,3 +60,6 @@ Na seguencia a linha é "dividida" por espacos,em uma sequência de tokens
 depois mapeada com uma unica palavra por vez, formando a chave
 e entao agregados por essa chave, e finalmente um count e salvo em um arquivo texto
 
+Impala,cood,spark
+
+
